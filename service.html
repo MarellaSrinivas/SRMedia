@@ -3,20 +3,29 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>SR Media | Service</title>
+  <title>SR Media | Outdoor & Indoor Advertising</title>
+  <meta name="description" content="SR Media provides outdoor, indoor, barricade and promotional advertising with professional design and execution." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="styles.css" />
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
 
   <!-- Header -->
-  <header class="site-header">
+ <header class="site-header" role="banner">
     <div class="container navbar">
-      <a class="brand" href="index.html"><img src="assets/logo.png" alt="SR Media logo" /></a>
-      <nav class="nav-links">
-        <a href="index.html">Home</a>
-        <a href="index.html#services">Services</a>
-        <a href="index.html#about">About</a>
-        <a href="index.html#contact">Contact</a>
+      <a class="brand" href="index.html" aria-label="SR Media Home">
+        <img src="assets/logo.png" alt="SR Media logo" />
+      </a>
+      <button class="hamburger" aria-label="Toggle navigation" aria-controls="primary-nav" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="primary-nav" class="nav-links" role="navigation" aria-label="Primary">
+        <a class="active" href="index.html">Home</a>
+        <a href="#services">Services</a>
+        <a href="#about">About US</a>
+        <a href="#contact">Contact</a>
       </nav>
     </div>
   </header>
@@ -93,7 +102,10 @@
     <div class="footnote">© 2025 SR Media. All rights reserved.</div>
   </footer>
 
+    <script src="script.js"></script>
   
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+ 
 
   <script>
   // Get service name from URL (?name=auto)
