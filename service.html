@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SR Media | Service</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container navbar">
+      <a class="brand" href="index.html"><img src="assets/logo.png" alt="SR Media logo" /></a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="index.html#services">Services</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="service-content" class="container" style="margin-top:30px;">
+    <!-- Service content will load here -->
+  </main>
+
+
+  <!-- === Contact === -->
+    <section id="contact" class="section contact">`
+      <div class="container">
+        <h2>Contact Us</h2>
+        <div class="card">
+          <div class="info">
+            <p>Ready to discuss your campaign? Reach out and we’ll get back within 24 hours.</p>
+            <p><strong>Email:</strong> srmedia email@gmail.com</p>
+            <p><strong>Hours:</strong> Mon–Sat, 9:00 AM – 9:00 PM</p> 
+            <p><strong>Address:</strong> Mounika Towers, Madhapur, Road no 36, Hyderabad.</p>
+          </div>
+          <div class="actions">
+            <a class="btn" href="https://wa.me/+916262156969" target="_blank" rel="noopener">
+              <img src="assets/whatsapp.png" alt="" style="width:18px;height:18px;" /> WhatsApp
+            </a> 
+            <a class="btn btn-outline" href="https://maps.app.goo.gl/io6BSna14B7gaWKM8" target="_blank" rel="noopener">
+              <img src="assets/maps.png" alt="" style="width:22px;height:22px;" />Get Directions
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>  
+
+
+
+    <!------Whasts app sticky button-->
+
+
+      <a href="https://wa.me/+916262156969" class="whatsapp-button" target="_blank" title="Chat on WhatsApp">
+      <img src="assets/whatsapp.png" width="80px" height="80px" alt="WhatsApp" />
+       </a> 
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="footer-brand">
+          <img src="assets/logo.png" alt="SR Media logo" />
+          <div>
+            <h4 style="margin:0;">SR Media</h4>
+            <p style="margin:4px 0 0;"  class="footer-link-head">Next Generation ideas....</p>
+            <p style="margin:4px 0 0;">Address : Mounika Towers, Madhapur, Road no 36, Hyderabad</p>
+
+          </div>
+        </div>
+      </div>
+      <div>
+        <h4 class="footer-link-head">SR Media</h4>
+        <nav class="footer-links">
+          <a href="index.html">Home</a><br/>
+          <a href="index.html#services">Services</a><br/> 
+          <a href="index.html#about.html">About Us</a><br/>
+          <a href="index.html#contact">Contact</a>
+        </nav>
+      </div>
+      <div>
+        <h4>Follow Us</h4>
+        <div class="social">
+          <a href="#" aria-label="Instagram"><img src="assets/instagram.png" alt="" /></a>
+          <a href="#" aria-label="Facebook"><img src="assets/facebook.png" alt="" /></a>
+          <a href="https://wa.me/+916262196969" aria-label="WhatsApp"><img src="assets/whatsapp.png" alt="" /></a>
+        </div>
+      </div>
+    </div>
+    <div class="footnote">© 2025 SR Media. All rights reserved.</div>
+  </footer>
+
+  
+
+  <script>
+  // Get service name from URL (?name=auto)
+  const params = new URLSearchParams(window.location.search);
+  const serviceName = params.get("name");
+
+  // Load JSON data from assets/data
+  fetch("assets/data/services.json")
+    .then(res => res.json())
+    .then(data => {
+      const service = data[serviceName];
+      if (!service) {
+        document.getElementById("service-content").innerHTML = "<h2>Service not found</h2>";
+        return;
+      }
+
+      // Update page title
+      document.title = `SR Media | ${service.title}`;
+
+      // Build HTML
+      document.getElementById("service-content").innerHTML = `
+        <h2 style="text-align:center;">${service.title}</h2>
+        <section id="headerimage">
+          <div class="headerimage">
+            <img src="${service.image}" alt="${service.title}" />
+            <p style="font-weight:bold; text-align:center;">${service.tagline}</p>
+          </div>
+        </section>
+
+        <section id="what">
+          <h2 class="section-title">What is ${service.title}</h2>
+          <p class="section-sub">${service.what}</p>
+        </section>
+
+        <section id="benefits">
+          <h2 class="section-title">Why ${service.title} Works</h2>
+          <ul class="section-sub">
+            ${service.benefits.map(b => `<li>${b}</li>`).join("")}
+          </ul>
+        </section>
+      `;
+    })
+    .catch(err => {
+      console.error("Error loading services.json:", err);
+      document.getElementById("service-content").innerHTML = "<h2>Could not load service details.</h2>";
+    });
+</script>
+
+</body>
+</html>

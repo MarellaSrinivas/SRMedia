@@ -1,0 +1,488 @@
+{
+  "auto": {
+    "title": "Auto Advertising",
+    "image": "assets/auto.jpg",
+    "tagline": "With autos weaving through every corner of the city, your brand never stops moving!",
+    "what": "Auto advertising turns the rear side of auto-rickshaws into moving billboards. With every ride, your brand message travels across busy streets, markets, residential colonies, and office hubs.",
+    "benefits": [
+      "Mobile Visibility: Your ad moves through high-traffic areas, reaching diverse audiences.",
+      "Wide Reach: Covers shoppers, office-goers, students, and local commuters across city routes.",
+      "24/7 Exposure: On the road all day, every day, with no pause or skip option.",
+      "Cost-Effective: More affordable than traditional billboards while delivering higher frequency.",
+      "Targeted Impact: Perfect for hyperlocal branding and mass visibility.",
+      "Creative Flexibility: Full-color designs and catchy messaging to make your brand unforgettable."
+    ]
+  },
+
+  "metro": {
+    "title": "Metro Advertising",
+    "image": "assets/metro.jpg",
+    "tagline": "With metros connecting every corner of the city, your brand travels with thousands of commuters every day!",
+    "what": "Metro advertising transforms high-traffic metro stations, trains, and transit spaces into powerful branding opportunities. From platform billboards to train interiors, your message reaches daily commuters in a captive environment.",
+    "benefits": [
+      "Massive Reach: Thousands of passengers see your ad daily across metro routes.",
+      "Captive Audience: Commuters spend time inside trains and stations, ensuring more attention to your brand.",
+      "Premium Locations: Ads placed in high-visibility areas like ticket counters, escalators, and platforms.",
+      "24/7 Exposure: Continuous impressions from morning rush to late evening commutes.",
+      "Cost-Effective: More affordable than hoardings while delivering high frequency.",
+      "Creative Flexibility: Options include wall panels, train wraps, and digital displays."
+    ]
+  },
+
+  "entrance-arch": {
+  "title": "Entrance Arch Advertising",
+  "image": "assets/services/entrencearch.jpg",
+  "tagline": "Create a grand welcome for your audience with eye-catching entrance arches that make your brand unforgettable.",
+  "what": "Entrance Arch Advertising uses large, creative arches placed at entry points of events, exhibitions, malls, or campaigns to attract attention instantly. It creates a strong first impression, welcoming your audience and promoting your brand in a visually striking way.",
+  "benefits": [
+    "High Visibility: Placed at entry points where every visitor passes through.",
+    "Grand First Impression: Instantly grabs attention and sets the tone for your brand or event.",
+    "Custom Designs: Arches can be tailored with creative shapes, sizes, and branding.",
+    "Event Popularity: Perfect for exhibitions, product launches, store openings, and campaigns.",
+    "Brand Recall: Creates memorable experiences that stick with visitors long after the event.",
+    "Affordable Impact: Cost-effective compared to large billboards while providing focused exposure."
+  ]
+},
+
+"hoardings": {
+  "title": "Hoarding Advertising",
+  "image": "assets/services/hoardings.jpg",
+  "tagline": "Make your brand larger than life with high-impact hoardings placed at prime city locations.",
+  "what": "Hoarding Advertising uses large outdoor billboards strategically placed at busy roads, junctions, highways, and commercial hubs. These high-visibility displays deliver massive exposure, ensuring your brand is noticed by thousands of people daily.",
+  "benefits": [
+    "Maximum Visibility: Large format ensures your brand stands out from a distance.",
+    "Prime Locations: Hoardings placed at highways, busy intersections, and commercial zones.",
+    "24/7 Exposure: Day and night visibility with backlit options for extra impact.",
+    "Massive Reach: Connects with drivers, pedestrians, and commuters across the city.",
+    "Prestigious Branding: Large outdoor formats give your brand a premium image.",
+    "Creative Flexibility: Full-color, bold designs that make your message unforgettable."
+  ]
+},
+
+"metro-train-ads": {
+  "title": "Metro Train Advertising",
+  "image": "assets/services/metrotrain.jpg",
+  "tagline": "Turn every metro journey into a moving showcase for your brand with train interior and exterior ads.",
+  "what": "Metro Train Advertising transforms entire trains into eye-catching moving billboards. From full-train wraps to seat-back stickers and interior panels, your brand message travels with thousands of daily commuters across the city’s busiest metro routes.",
+  "benefits": [
+    "Unmissable Presence: Full train wraps and panels grab attention instantly.",
+    "Captive Audience: Daily commuters spend significant time inside trains, ensuring repeated exposure.",
+    "Massive Reach: Reaches lakhs of passengers across metro corridors every day.",
+    "Premium Visibility: Ads placed inside and outside trains offer 360-degree branding.",
+    "24/7 Mobility: Your brand message moves continuously throughout the city.",
+    "Creative Options: Flexibility to use wraps, posters, stickers, and digital panels."
+  ]
+},
+
+
+"sky-balloon-ads": {
+  "title": "Sky Balloon Advertising",
+  "image": "assets/services/skyballoon.jpg",
+  "tagline": "Take your brand message to the skies with giant advertising balloons that capture every eye.",
+  "what": "Sky Balloon Advertising uses large, colorful balloons placed high above event venues, exhibitions, commercial areas, or public spaces. Suspended in the air, these eye-catching displays draw massive attention and create a memorable brand presence.",
+  "benefits": [
+    "High Visibility: Visible from a long distance, ensuring maximum reach.",
+    "Crowd Puller: Instantly attracts attention at exhibitions, events, and public gatherings.",
+    "Unique Branding: Creates a fun and striking way to showcase your brand.",
+    "Cost-Effective: More affordable than hoardings with high local impact.",
+    "Event Popularity: Perfect for inaugurations, campaigns, fairs, and festivals.",
+    "Memorable Impact: Sky-high branding leaves a lasting impression on audiences."
+  ]
+},
+
+
+"roadside-digital-boards": {
+  "title": "Roadside Digital Boards Advertising",
+  "image": "assets/services/roadsidedigital.jpg",
+  "tagline": "Bring your brand to life with dynamic roadside digital boards that capture attention day and night.",
+  "what": "Roadside Digital Boards Advertising uses high-definition LED screens installed at prime traffic locations, highways, and commercial zones. With moving visuals, animations, and video ads, these boards deliver impactful, modern, and memorable brand communication.",
+  "benefits": [
+    "Dynamic Content: Display videos, animations, and rotating ads for higher engagement.",
+    "Prime Visibility: Installed at busy junctions, highways, and high-footfall areas.",
+    "Day & Night Impact: Bright LED displays ensure 24/7 visibility in all conditions.",
+    "Massive Reach: Targets daily commuters, pedestrians, and local audiences.",
+    "Creative Freedom: Flexibility to run multiple campaigns or time-based ads.",
+    "Premium Branding: Projects a modern, tech-driven image for your brand."
+  ]
+},
+
+"tent-ads": {
+  "title": "Tent Advertising",
+  "image": "assets/services/tent.jpg",
+  "tagline": "Promote your brand at the ground level with customized tent ads that stand out at events and public spaces.",
+  "what": "Tent Advertising uses branded tents placed at exhibitions, fairs, markets, and outdoor events to showcase products and services. These tents provide both functional space and high-visibility branding, making them ideal for direct customer engagement.",
+  "benefits": [
+    "High Engagement: Perfect for exhibitions, trade shows, and local markets.",
+    "Dual Purpose: Offers both shade/shelter and strong brand visibility.",
+    "Custom Designs: Tents can be branded with logos, colors, and full wraps.",
+    "Targeted Reach: Engage directly with potential customers at the venue.",
+    "Cost-Effective: Affordable outdoor branding option for local promotions.",
+    "Memorable Presence: Creates an eye-catching spot that people notice and remember."
+  ]
+},
+
+"traffic-booth": {
+  "title": "Traffic Booth Advertising",
+  "image": "assets/services/trafficbooth.jpg",
+  "tagline": "Maximize brand exposure with traffic booth ads placed at busy intersections where visibility is guaranteed.",
+  "what": "Traffic Booth Advertising uses small police or traffic booths located at high-traffic intersections and junctions as advertising spaces. These strategically placed booths ensure constant exposure to thousands of daily commuters, both pedestrians and motorists.",
+  "benefits": [
+    "Prime Locations: Positioned at busy traffic signals and junctions.",
+    "Constant Visibility: Drivers and commuters see the ads while waiting at signals.",
+    "High Frequency: Repeated exposure every day builds strong brand recall.",
+    "Cost-Effective: Affordable compared to large hoardings but with high local impact.",
+    "Community Presence: Seen by neighborhood residents, office-goers, and students daily.",
+    "Trusted Format: Official-looking structures lend credibility to your brand."
+  ]
+},
+
+
+"auto-boards": {
+  "title": "Auto Board Advertising",
+  "image": "assets/services/autoboards.jpg",
+  "tagline": "Turn every auto into a moving advertisement with bold and eye-catching auto boards.",
+  "what": "Auto Board Advertising involves placing display boards on the sides or back of auto-rickshaws. As autos move through busy streets, markets, and neighborhoods, your brand message travels with them, ensuring continuous local exposure.",
+  "benefits": [
+    "Mobile Reach: Travels across all city routes, covering diverse audiences.",
+    "High Frequency: Daily exposure builds strong recall among commuters.",
+    "Cost-Effective: More affordable than hoardings with wider coverage.",
+    "Local Targeting: Perfect for hyperlocal promotions and trade areas.",
+    "Creative Impact: Custom-designed boards for maximum visibility.",
+    "24/7 Exposure: On the road day and night without interruptions."
+  ]
+},
+
+
+"try-cycle": {
+  "title": "Tri-Cycle Advertising",
+  "image": "assets/services/tricycle.jpg",
+  "tagline": "Pedal-powered advertising that reaches every street corner with high visibility and mobility.",
+  "what": "Tri-Cycle Advertising uses three-wheeler cycles fitted with branded display boards. These eco-friendly, mobile ad carriers move through markets, residential areas, and busy streets, delivering your brand message directly to local audiences.",
+  "benefits": [
+    "Eco-Friendly: Promotes your brand while supporting green advertising methods.",
+    "Street-Level Reach: Moves into narrow lanes and crowded markets where vehicles can’t go.",
+    "Cost-Effective: Affordable compared to motorized mobile ads.",
+    "Targeted Exposure: Great for local businesses, shops, and hyperlocal campaigns.",
+    "Mobile Billboard: Constant movement ensures repeated impressions.",
+    "Event-Friendly: Ideal for exhibitions, rallies, and promotional campaigns."
+  ]
+},
+
+
+"uni-pole": {
+  "title": "Uni-Pole Advertising",
+  "image": "assets/services/unipole.jpg",
+  "tagline": "Command attention with towering uni-pole billboards placed at premium city locations.",
+  "what": "Uni-Pole Advertising features tall, single-column structures with large display boards mounted high above the ground. Positioned along highways, main roads, and busy intersections, these billboards guarantee maximum visibility and strong brand impact.",
+  "benefits": [
+    "High Visibility: Elevated position ensures ads are visible from long distances.",
+    "Premium Locations: Strategically placed at highways, flyovers, and major junctions.",
+    "Large Format Impact: Massive display space captures attention instantly.",
+    "Continuous Exposure: Viewed by thousands of daily commuters and travelers.",
+    "Brand Prestige: Creates a strong, authoritative presence in the marketplace.",
+    "Long-Term Value: Durable structure ideal for sustained campaigns."
+  ]
+},
+
+
+"wall-mount": {
+  "title": "Wall Mount Advertising",
+  "image": "assets/services/wallmount.jpg",
+  "tagline": "Transform everyday walls into powerful advertising spaces with wall mount displays.",
+  "what": "Wall Mount Advertising uses fixed display boards installed on the sides of buildings, boundary walls, and commercial complexes. These strategically mounted boards are visible to pedestrians and motorists alike, offering consistent local exposure.",
+  "benefits": [
+    "Strategic Placement: Positioned on high-footfall streets and crowded markets.",
+    "Constant Exposure: Delivers 24/7 brand visibility without interruption.",
+    "Cost-Effective: Affordable compared to hoardings but still highly impactful.",
+    "Local Branding: Targets communities and neighborhoods directly.",
+    "Durable Displays: Weather-resistant boards for long-term advertising.",
+    "Customizable Sizes: Flexible options to fit small or large wall spaces."
+  ]
+},
+
+
+"welcome-village-signs": {
+  "title": "Welcome Village Signs Advertising",
+  "image": "assets/services/welcomesign.jpg",
+  "tagline": "Greet every visitor with your brand through customized welcome signs at village entry points.",
+  "what": "Welcome Village Signs Advertising places branded welcome boards at the entrance of villages, towns, and community areas. These signs not only greet locals and visitors but also provide continuous exposure to your brand in a trusted, culturally rooted format.",
+  "benefits": [
+    "High Local Visibility: Seen by everyone entering or leaving the village.",
+    "Community Trust: Positioned as a friendly greeting, building positive brand recall.",
+    "24/7 Exposure: Always visible without breaks or interruptions.",
+    "Cost-Effective: Affordable advertising for rural and semi-urban outreach.",
+    "Custom Design: Can include village name, cultural symbols, and brand logo.",
+    "Wide Reach: Targets residents, visitors, and travelers passing through."
+  ]
+},
+
+
+
+"counter": {
+  "title": "Counter Stall Advertising",
+  "image": "assets/services/counter.jpg",
+  "tagline": "Engage customers directly with branded counter stalls at events, malls, and public spaces.",
+  "what": "Counter Stall Advertising involves setting up branded stalls or kiosks in malls, exhibitions, trade shows, and public areas. These stalls provide direct interaction with customers, product sampling opportunities, and strong visual branding in high-footfall locations.",
+  "benefits": [
+    "Direct Engagement: Face-to-face interaction with potential customers.",
+    "High Footfall Areas: Ideal for malls, fairs, markets, and exhibitions.",
+    "Product Sampling: Perfect for showcasing and distributing products.",
+    "Custom Branding: Fully branded stalls create a strong visual presence.",
+    "Targeted Promotions: Focus on specific events or local communities.",
+    "Memorable Impact: Personal interaction builds trust and long-term recall."
+  ]
+},
+
+"display-boards": {
+  "title": "Display Board Advertising",
+  "image": "assets/services/displayboards.jpg",
+  "tagline": "Simple, effective, and versatile advertising through branded display boards.",
+  "what": "Display Board Advertising uses customized boards installed at shops, markets, events, and public places to promote products or services. These boards are lightweight, portable, and can be placed in strategic high-visibility areas for maximum local impact.",
+  "benefits": [
+    "Versatile Usage: Suitable for shops, events, exhibitions, and roadside branding.",
+    "Affordable Option: Cost-effective compared to large outdoor formats.",
+    "Custom Sizes: Boards can be made in different dimensions as per requirement.",
+    "Easy Installation: Quick to set up and relocate when needed.",
+    "Local Branding: Perfect for targeting neighborhoods and community audiences.",
+    "Continuous Exposure: Delivers consistent visibility throughout the day."
+  ]
+},
+ 
+"lift-advertisements": {
+  "title": "Lift Advertisements",
+  "image": "assets/services/lift.jpg",
+  "tagline": "Engage audiences in high-rise buildings with eye-level branding inside lifts.",
+  "what": "Lift Advertising places branded posters, digital screens, or vinyl wraps inside elevators of residential complexes, corporate offices, malls, and hotels. With a captive audience during the ride, your brand enjoys uninterrupted attention in a premium environment.",
+  "benefits": [
+    "Captive Audience: Viewers have no distractions during lift rides.",
+    "Premium Reach: Targets residents, office-goers, and mall visitors.",
+    "High Frequency: Daily repeated exposure builds strong recall.",
+    "Targeted Locations: Ideal for apartments, IT parks, and commercial hubs.",
+    "Cost-Effective: Affordable compared to large outdoor media.",
+    "Creative Options: Use posters, stickers, or digital screens for branding."
+  ]
+},
+ 
+"floor-design": {
+  "title": "Floor Design Advertising",
+  "image": "assets/services/floor.jpg",
+  "tagline": "Turn every step into an impression with creative floor branding designs.",
+  "what": "Floor Design Advertising uses customized stickers, graphics, or 3D visuals applied to floors in malls, retail stores, airports, exhibitions, and events. These creative ads capture attention at ground level, making them highly engaging and memorable.",
+  "benefits": [
+    "High Engagement: People naturally look down while walking, ensuring visibility.",
+    "Creative Impact: 3D and graphic designs create a lasting impression.",
+    "Versatile Spaces: Suitable for malls, airports, exhibitions, and retail outlets.",
+    "Cost-Effective: Affordable branding with strong visual appeal.",
+    "Event-Friendly: Perfect for trade shows, product launches, and campaigns.",
+    "Memorable Presence: Unique placement ensures your ad stands out."
+  ]
+},
+ 
+"shopping-malls": {
+  "title": "Shopping Mall Advertising",
+  "image": "assets/services/mall.jpg",
+  "tagline": "Reach premium audiences with impactful advertising inside shopping malls.",
+  "what": "Shopping Mall Advertising leverages high-footfall areas such as entrances, atriums, escalators, food courts, and parking lots to showcase brand messages. With long dwell times and diverse audiences, malls provide premium visibility and strong brand engagement.",
+  "benefits": [
+    "Premium Audience: Targets shoppers, families, and professionals in a leisure mindset.",
+    "Multiple Formats: Options include banners, kiosks, digital screens, and standees.",
+    "High Footfall: Malls attract thousands of daily visitors for consistent exposure.",
+    "Engaging Spaces: Strategic placements ensure maximum visibility and recall.",
+    "Brand Prestige: Association with premium locations enhances brand image.",
+    "Event Tie-Ins: Perfect for product launches, promotions, and seasonal campaigns."
+  ]
+},
+ 
+
+"theater-advertisements": {
+  "title": "Theater Advertisements",
+  "image": "assets/services/theater.jpg",
+  "tagline": "Showcase your brand on the big screen with impactful cinema advertising.",
+  "what": "Theater Advertising places your brand message before a captive audience inside cinema halls. Ads can be displayed on the big screen before or during movies, or through posters, standees, and digital screens in theater lobbies and waiting areas.",
+  "benefits": [
+    "Captive Audience: Viewers are fully attentive inside theaters with no distractions.",
+    "Big Screen Impact: Large-format visuals create a memorable experience.",
+    "Premium Audience: Targets families, youth, and professionals in leisure mode.",
+    "Multiple Formats: Options include on-screen ads, lobby branding, and kiosks.",
+    "High Recall: Repeated exposure during regular movie visits builds strong memory.",
+    "Localized Reach: Target theaters in specific areas for hyperlocal campaigns."
+  ]
+},
+
+ 
+"standees": {
+  "title": "Standees Advertising",
+  "image": "assets/services/standees.jpg",
+  "tagline": "Attract attention with eye-catching standees placed at prime indoor and outdoor locations.",
+  "what": "Standees Advertising uses free-standing display boards, usually made of foam, flex, or digital screens, placed at malls, theaters, events, exhibitions, and retail outlets. These portable displays are perfect for showcasing offers, product launches, and brand messages in high-footfall areas.",
+  "benefits": [
+    "High Visibility: Placed at entrances, lobbies, and walkways for maximum exposure.",
+    "Portable & Flexible: Easy to move and reposition as per campaign needs.",
+    "Cost-Effective: Affordable promotional tool for short-term and long-term use.",
+    "Engagement Boost: Ideal for highlighting offers, launches, and event promotions.",
+    "Customizable: Available in various shapes, sizes, and creative designs.",
+    "Versatile Usage: Suitable for malls, theaters, trade shows, and corporate events."
+  ]
+},
+
+  "visiting-cards": {
+    "title": "Visiting Card Printing",
+    "image": "assets/services/visitingcards.jpg",
+    "tagline": "Make lasting first impressions with premium quality visiting cards.",
+    "what": "We design and print personalized visiting cards in a variety of finishes, including matte, glossy, embossed, and textured. Perfect for professionals and businesses looking to stand out.",
+    "benefits": [
+      "Custom Designs to match your brand identity",
+      "Premium quality paper and finishes",
+      "Affordable and bulk printing options",
+      "Fast turnaround time",
+      "Professional look to boost credibility"
+    ]
+  },
+
+  "brochures": {
+    "title": "Brochure Printing",
+    "image": "assets/services/brochures.jpg",
+    "tagline": "Present your brand story with beautifully designed brochures.",
+    "what": "Our brochure printing services include bi-fold, tri-fold, and custom formats. Perfect for product catalogs, company profiles, and promotional handouts.",
+    "benefits": [
+      "Vibrant full-color printing",
+      "Multiple folding styles",
+      "Custom sizes and finishes",
+      "Ideal for events, trade shows, and promotions",
+      "Professional designs for lasting impact"
+    ]
+  },
+
+
+  "flex-printing": {
+    "title": "Flex Printing",
+    "image": "assets/services/flex.jpg",
+    "tagline": "Durable flex printing for outdoor and indoor advertising.",
+    "what": "High-quality flex printing for banners, hoardings, posters, and displays. Weather-resistant materials ensure your branding remains bright and impactful.",
+    "benefits": [
+      "UV-resistant and waterproof material",
+      "Suitable for both indoor and outdoor use",
+      "Custom sizes available",
+      "High-resolution printing",
+      "Cost-effective for large-scale promotions"
+    ]
+  },
+
+  "letterheads": {
+  "title": "Letterhead Printing",
+  "image": "assets/services/letter-head.jpg",
+  "tagline": "Professional letterheads that strengthen your brand identity in every communication.",
+  "what": "Our custom letterhead printing services provide high-quality designs that reflect your brand’s professionalism. Perfect for official documents, invoices, and corporate communication.",
+  "benefits": [
+    "Custom designs with your logo and brand colors",
+    "Premium paper quality for a professional look",
+    "Enhances brand credibility and trust",
+    "Available in multiple sizes and finishes",
+    "Cost-effective bulk printing options"
+  ]
+},
+
+"pamphlets": {
+  "title": "Pamphlet Printing",
+  "image": "assets/services/pamphlets.jpg",
+  "tagline": "Reach thousands with cost-effective and impactful pamphlet printing.",
+  "what": "Pamphlet printing is one of the most effective ways to distribute your brand message to a wide audience. Ideal for promotions, product launches, events, and local campaigns, our pamphlets are available in various sizes and paper qualities.",
+  "benefits": [
+    "Affordable printing for bulk distribution",
+    "Full-color, high-resolution printing",
+    "Available in multiple sizes and paper options",
+    "Perfect for door-to-door and handout campaigns",
+    "Quick turnaround time for urgent requirements"
+  ]
+},
+
+"letter-heads": {
+  "title": "Letterhead Printing",
+  "image": "assets/services/letter-head.jpg",
+  "tagline": "Professional letterheads that represent your brand in every official document.",
+  "what": "We offer custom letterhead printing on premium paper stock to give your business a polished and credible image. Perfect for invoices, quotations, contracts, and official communication.",
+  "benefits": [
+    "Customizable with logo, address, and brand colors",
+    "Premium quality paper for a professional feel",
+    "Multiple size and finish options available",
+    "Enhances trust and reinforces brand identity",
+    "Bulk printing options at cost-effective rates"
+  ]
+},
+
+"envelopes": {
+  "title": "Envelope Printing",
+  "image": "assets/services/envelops.jpg",
+  "tagline": "Custom branded envelopes that add professionalism to every communication.",
+  "what": "We design and print customized envelopes in various sizes and styles. Perfect for official correspondence, invitations, and marketing campaigns, envelopes with your branding leave a lasting impression.",
+  "benefits": [
+    "Available in multiple sizes (C4, C5, DL, etc.)",
+    "Custom designs with logo and brand colors",
+    "High-quality printing for a professional look",
+    "Options for window and non-window envelopes",
+    "Cost-effective bulk printing options"
+  ]
+},
+
+"menu-cards": {
+  "title": "Menu Card Printing",
+  "image": "assets/services/menu-cards.jpg",
+  "tagline": "Stylish and durable menu cards that enhance your restaurant’s branding.",
+  "what": "We create high-quality menu cards that are visually appealing and long-lasting. Perfect for restaurants, cafes, bakeries, and bars, our menu cards are designed to reflect your brand’s personality and make a great first impression on customers.",
+  "benefits": [
+    "Custom designs with attractive layouts",
+    "Laminated or UV-coated for durability",
+    "Available in different sizes and folding options",
+    "High-quality printing with vibrant colors",
+    "Enhances customer experience and brand value"
+  ]
+},
+
+
+  "id-cards": {
+    "title": "ID Card Printing",
+    "image": "assets/services/id-cards.jpg",
+    "tagline": "Durable ID cards for employees, students, and organizations.",
+    "what": "Custom printed plastic ID cards with barcodes, chips, and lamination.",
+    "benefits": [
+      "PVC & laminated cards",
+      "Custom logos & details",
+      "Barcode & smart card options",
+      "Durable material",
+      "Quick delivery"
+    ]
+  },
+
+
+    "stickers": {
+    "title": "Sticker Printing",
+    "image": "assets/services/stickers.jpg",
+    "tagline": "Creative stickers for packaging, branding, and promotions.",
+    "what": "Custom sticker printing in various shapes, sizes, and finishes.",
+    "benefits": [
+      "Glossy, matte, & transparent options",
+      "Custom sizes & shapes",
+      "Durable adhesive quality",
+      "Perfect for packaging & branding",
+      "Affordable bulk prints"
+    ]
+  },
+
+  "vinyl": {
+    "title": "Vinyl Printing",
+    "image": "assets/services/vinyl.jpg",
+    "tagline": "Durable vinyl prints for outdoor and indoor branding.",
+    "what": "Weather-proof vinyl printing for boards, banners, and events.",
+    "benefits": [
+      "Long-lasting material",
+      "High-resolution prints",
+      "UV & water resistant",
+      "Custom sizes available",
+      "Perfect for branding"
+    ]
+  }
+
+
+}
+
+
